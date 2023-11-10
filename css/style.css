@@ -2,6 +2,11 @@
     margin:60px;
     position: relative;
 }
+.contenidor{
+    background-color: red;
+    width:600px;
+    margin:auto;
+}
 .cap{
     width:500px;
     height:600px;
